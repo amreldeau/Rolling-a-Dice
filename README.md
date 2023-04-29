@@ -1,6 +1,6 @@
 # Rolling-a-Dice
 
-Dice Roller is a simple app that rolls a six sided die
+***1st app from UC***
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/94914844/233783186-9c1ba45d-06c3-4b81-b682-7688fad8dbfe.png)
